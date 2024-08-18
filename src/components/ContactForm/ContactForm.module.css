@@ -1,6 +1,7 @@
 .form {
     padding: 20px;
-    border: 2px solid black;
+    border: 3px solid rgb(1, 83, 5);
+    background-color: rgb(156, 192, 153);
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
@@ -19,6 +20,7 @@
     width: 120px;
     height: 46px;
     margin: 0 auto;
+    background-color: rgb(233, 226, 133);
 }
 
 .errorMessages {
